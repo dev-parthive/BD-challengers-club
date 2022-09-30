@@ -61,8 +61,8 @@ const Calculation = ({cart}) => {
             
 
             <h4>Exercise Details</h4>
-            <div className='calculation'><h4>Exercise Time:{total} minite</h4></div>
-            <div className='calculation'><h4>Breack Time:{breaktext?breaktext:localStorage.getItem("break:")}</h4></div>
+            <div className='calculation'><h4>Exercise Time: <span style={{marginLeft:'20px', color: 'rgb(166 157 157)'}}>{total} minutes</span></h4></div>
+            <div className='calculation'><h4>Breack Time: <span style={{marginLeft:'20px', color: 'rgb(166 157 157)'}}>{breaktext?breaktext:localStorage.getItem("break:")}minutes</span></h4></div>
             <button onClick={tostCall} className='activity'> Activity completed</button>
             <ToastContainer />
 
