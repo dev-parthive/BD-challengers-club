@@ -3,9 +3,9 @@
       "id": "633462ed11415efe1c3b0ec9",
       "index": 0,
       "timeRequired": 40,
-      "picture":"https://images.unsplash.com/photo-1604769688135-f245c9f9a486?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "picture":"https://images.unsplash.com/photo-1534787238916-9ba6764efd4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
       "age": 23,
-      "name": "walking"
+      "name": "Cycling"
     },
     {
       "id": "633462ed2a9237dc855c3961",
@@ -43,8 +43,8 @@
       "id": "633462edad390ac0f64a3c6b",
       "index": 5,
       "timeRequired": 31,
-      "picture": "https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
+      "picture": "https://images.unsplash.com/flagged/photo-1556746834-1cb5b8fabd54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FyZGlvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "age": 37,
-      "name": "weight-lifting"
+      "name": "Cardio"
     }
   ]
