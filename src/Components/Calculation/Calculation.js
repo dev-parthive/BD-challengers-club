@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './Calculation.css';
-import image from '../../Images/user.jpg'
+import image from '../../Images/IMG_20211116_191549_1-removebg-preview.png'
 import { ToastContainer, toast } from 'react-toastify';
 
 const Calculation = ({cart}) => {
@@ -31,8 +31,8 @@ const Calculation = ({cart}) => {
             <div className='user'>
                 <img src={image} className='user-img' alt="" />
                 <div>
-                    <h3>Bishwajit Aich.</h3>
-                    <p><small>Chittagong,bangladesh</small></p>
+                    <h3>Parthive Shill.</h3>
+                    <p><small>Rangunia,bangladesh</small></p>
                 </div>
             </div>
             
@@ -42,11 +42,11 @@ const Calculation = ({cart}) => {
                     {/* <span>kg</span> */}
                 </div>
                 <div className='user-info'>
-                    <h4>5.6</h4>height
+                    <h4>6.0</h4>height
                     {/* <span>height</span> */}
                 </div>
                 <div className='user-info'>
-                    <h4>24</h4>age
+                    <h4>20</h4>age
                 </div>
             </div>
 
