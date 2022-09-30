@@ -31,14 +31,14 @@ const Calculation = ({cart}) => {
             <div className='user'>
                 <img src={image} className='user-img' alt="" />
                 <div>
-                    <h3 style={{color:'blue'}}>Parthive Shill.</h3>
-                    <p><small>Rangunia,bangladesh</small></p>
+                    <h3 style={{color:'black', fontSize:'20px'}}>Parthive Shill.</h3>
+                    <p><small style={{color:'#ddd', fontSize: '16px'}}>Rangunia,bangladesh</small></p>
                 </div>
             </div>
             
             <div className="user-details">
                 <div  className='user-info'>
-                    <h4>65</h4>kg
+                    <h4>53</h4>kg
                     {/* <span>kg</span> */}
                 </div>
                 <div className='user-info'>
@@ -52,10 +52,10 @@ const Calculation = ({cart}) => {
 
             <h4 className=''>Added A Break</h4>
             <div className='break'>
-            <li onClick={()=>breakcart(10)}>10</li>
-            <li onClick={()=>breakcart(20)}>20</li>
-            <li onClick={()=>breakcart(30)}>30</li>
-            <li onClick={()=>breakcart(40)}>40</li>
+            <li style={{color: 'white', padding: '5px'}} onClick={()=>breakcart(10)}>10</li>
+            <li style={{color: 'white', padding: '5px'}} onClick={()=>breakcart(20)}>20</li>
+            <li style={{color: 'white', padding: '5px'}} onClick={()=>breakcart(30)}>30</li>
+            <li style={{color: 'white', padding: '5px'}} onClick={()=>breakcart(40)}>40</li>
             {/* <li>50</li> */}
             </div>
             

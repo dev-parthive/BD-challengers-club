@@ -17,8 +17,8 @@ const Exercise = ({ex ,cart,setCart}) => {
            <h3>{name}</h3>
            <p>For-age:{age}</p>
            <p><strong>Time-required: </strong>
-             {timeRequired}</p>
-           <button onClick={()=>handleToCart(id)} className='cart-btn'>Add to cart</button>
+             {timeRequired} Min</p>
+           <button onClick={()=>handleToCart(id)} className='cart-btn' style={{color:'white', fontSize:'18px'}}>Add to cart</button>
         </div>
         </div>
     );

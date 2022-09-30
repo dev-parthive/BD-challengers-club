@@ -18,24 +18,29 @@
     /* margin:10px; */
     background-color: #d3ede7;
     border-radius: 10px;
+    justify-content: center;
 }
 .calculation{
     background-color: #dcfbfb;
     padding:10px 15px;
     margin:10px 0;
     border-radius: 5px;
+    display: flex;
+    justify-content: center;
 }
 .break{
    list-style: none;
    background-color: #dcfbfb;
    border-radius: 5px;
    display: flex;
+   justify-content: center;
 } 
 .break li{
     margin:10px;
     background-color:#165a9eb7;
     padding:5px;
     border-radius: 50%;
+    cursor: pointer;
 }
 .activity{
     background-color: #165a9eb7;
