@@ -14,7 +14,7 @@ const Home = () => {
     },[])
     return (
         <div>
-             <h2>Select my today exercise</h2>
+             <h2 style={{marginLeft:'20px', color:'blue'}}>Select my today's Activity</h2>
             
             <div class="home-display">
             <div className='data-section'>

@@ -6,7 +6,7 @@ const Header = () => {
         <div>
            <nav className='nav-section'>
             <img className='logo-images' src={logo} alt="" />
-            <h1 className='heading-line'>BD Challengers Club</h1>
+            <h1 className='heading'>BD Challengers Club</h1>
            </nav>
         </div>
     );

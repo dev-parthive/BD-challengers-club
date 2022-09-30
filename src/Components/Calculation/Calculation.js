@@ -31,7 +31,7 @@ const Calculation = ({cart}) => {
             <div className='user'>
                 <img src={image} className='user-img' alt="" />
                 <div>
-                    <h3>Parthive Shill.</h3>
+                    <h3 style={{color:'blue'}}>Parthive Shill.</h3>
                     <p><small>Rangunia,bangladesh</small></p>
                 </div>
             </div>
