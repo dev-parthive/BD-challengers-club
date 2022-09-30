@@ -1,0 +1,47 @@
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.user-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.user-info{
+    margin:20px;
+}
+.user-details{
+    display: flex;
+    /* margin:10px; */
+    background-color: #d3ede7;
+    border-radius: 10px;
+}
+.calculation{
+    background-color: #dcfbfb;
+    padding:10px 15px;
+    margin:10px 0;
+    border-radius: 5px;
+}
+.break{
+   list-style: none;
+   background-color: #dcfbfb;
+   border-radius: 5px;
+   display: flex;
+} 
+.break li{
+    margin:10px;
+    background-color:#165a9eb7;
+    padding:5px;
+    border-radius: 50%;
+}
+.activity{
+    background-color: #165a9eb7;
+    color:white;
+    padding:10px 20px;
+    margin:20px;
+    border:none;
+    border-radius: 5px;
+}
